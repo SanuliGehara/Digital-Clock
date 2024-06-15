@@ -22,6 +22,3 @@ This is a responsive digital clock web application built using HTML, CSS, and Ja
 
 You can customize the design of the digital clock by modifying the CSS styles in the `style.css` file. Feel free to experiment with colors, fonts, and layout to personalize the clock to your liking. :rocket::sparkles:
 
-## Credits
-
-This project was inspired by various digital clock designs available online. :innocent:
